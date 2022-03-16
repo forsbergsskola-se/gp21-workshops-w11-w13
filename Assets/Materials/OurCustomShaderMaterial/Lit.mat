@@ -20,8 +20,8 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: OurUnlitShaderMaterial
-  m_Shader: {fileID: -6465566751694194690, guid: 9df9a532312cd2f44bd2256c4cf064d5, type: 3}
+  m_Name: Lit
+  m_Shader: {fileID: -6465566751694194690, guid: 9d432fb3e9f0dc242ba767e2a95a9b8a, type: 3}
   m_ShaderKeywords: 
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
